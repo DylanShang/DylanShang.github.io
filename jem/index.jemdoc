@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{photos/profile.jpg}{alt text}{239px}{239px}
-[https://jshang2.github.io Dylan Shang] \n 
+[https://dylanshang.github.io/ Dylan Shang] \n 
 Postgraduate student at [https://www.unsw.edu.au/ UNSW] \n
 Sydney, New South Wales, Australia \n
 \n
@@ -33,5 +33,19 @@ I am a final semester graduate student in IT at UNSW, focusing on graph database
 - Graph database, Graph algorithm, OLAP
 - Computer Vision, Computer Graphics, Data Mining
 
+== Book
+《Pine v5 中文版用户手册》Pine Script™ v5 User Manual Chinese Version
+~~~
+{}{raw}
+<a href="https://github.com/unknown-marketwizards/pine_script_docs_zh">[Github]</a>
+<a href="https://unknown-marketwizards.github.io/pine_script_docs_zh">[Online Book]</a>
+<span style="margin-right: 20px;"></span>
+<a href="https://github.com/unknown-marketwizards/pine_script_docs_zh"><img src="https://img.shields.io/github/stars/unknown-marketwizards/pine_script_docs_zh?style=social" style="vertical-align: bottom;" alt="Stars"></a>
+<a href="https://github.com/unknown-marketwizards/pine_script_docs_zh"><img src="https://img.shields.io/github/forks/unknown-marketwizards/pine_script_docs_zh?style=social" style="vertical-align: bottom;" alt="Forks"></a>
+~~~
 
-
+== Visitors
+~~~
+{}{raw}
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=c4aDY-_9EYXelwI5FzRvdyGCCK6NT5OfmWZtDU-D2ok&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+~~~
