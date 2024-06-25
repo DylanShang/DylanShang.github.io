@@ -1,0 +1,68 @@
+# jemdoc: menu{MENU}{experiences.html}, nofooter
+= AIV - Industrial vision processing Program 
+Dec 2021 – Jun 2022
+
+
+~~~
+{}{raw}
+  <div  style="position: relative;left:130px;top:70px;">
+    <img  alt="" src="./photos/AIV/computer.png" style="width: 820px; height: 437px; position: absolute; left: -164px; top: -62px;">
+    <img  alt="" src="./photos/AIV/20240307-133059.gif" style="width: 505px; height: 300px;">
+    <img  src="./photos/AIV/up.png" style="width: 40px; height: 100px; position: absolute; left: 30px; top: -60px;">
+    <img  src="./photos/AIV/up.png" style="width: 40px; height: 100px; position: absolute; left: 150px; top: -60px;">
+    <img  src="./photos/AIV/up.png" style="width: 40px; height: 100px; position: absolute; left: 400px; top: -60px;">
+    <img  src="./photos/AIV/down.png" style="width: 40px; height: 100px; position: absolute; left: 30px; bottom: -70px;">
+    <img  src="./photos/AIV/down.png" style="width: 40px; height: 100px; position: absolute; left: 300px; bottom: -70px;">
+    <span style="position:absolute;left:40px;top:-56px;color:#aaa;font-size:14px;" >Project window</span>
+    <span style="position:absolute;left:160px;top:-56px;color:#aaa;font-size:14px;" >Execution window</span>
+    <span style="position:absolute;left:410px;top:-56px;color:#aaa;font-size:14px;" >Display window</span>
+    <span style="position:absolute;left:40px;bottom:-66px;color:#aaa;font-size:14px;" >Operation window</span>
+    <span style="position:absolute;left:310px;bottom:-66px;color:#aaa;font-size:14px;" >Output window</span>
+  </div>
+  <div style="width:100%;height:180px"></div>
+~~~
+
+- Developed a machine vision software named AIV, which was used in industrial product quality testing
+- Using (C++) OpenCV library to accomplish 2D/3D functions including template matching, line/circle/plane finding, etc.
+- Implemented step by step execution, scripting, debugging, 2D/3D effect preview as well
+
+== Stack
+C\+\+, Qt, OpenCV, PCL
+
+== Examples
+~~~
+{}{raw}
+<div id="member-container">
+    <div id="member">
+        <img style="width:217px;height:275px" src="./photos/AIV/ex1.png">
+        <p>Connector Pin position measurement</p>
+        <p style="color:#aaa;font-size:14px;">Measure the height, alignment, spacing and other parameters of all pins.</p>
+    </div>
+    <div id="member">
+        <img style="width:217px;height:275px" src="./photos/AIV/ex2.png">
+        <p>Aluminum shell surface flatness measurement</p>
+    </div>
+    <div id="member">
+        <img style="width:217px;height:275px" src="./photos/AIV/ex3.png">
+        <p>Type-C connector pin segment difference measurement</p>
+    </div>
+</div>
+
+<div id="member-container">
+    <div id="member">
+        <img style="width:217px;height:275px" src="./photos/AIV/ex4.png">
+        <p>
+            Measurement of coplanarity of BGA solder ball
+        </p>
+        <p style="color:#aaa;font-size:14px;">Measure the height and coplanarity of each pin of the BGA solder ball.</p>
+    </div>
+    <div id="member">
+        <img style="width:217px;height:275px" src="./photos/AIV/ex5.png">
+        <p>Copper coil position detection and size measurement</p>
+    </div>
+    <div id="member">
+        <img  style="width:217px;height:275px"src="./photos/AIV/ex6.png">
+        <p>PCB solder joint volume measurement</p>
+    </div>
+</div>
+~~~

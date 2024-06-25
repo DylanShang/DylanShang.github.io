@@ -1,0 +1,64 @@
+# jemdoc: menu{MENU}{experiences.html}, nofooter
+= Campus Guide Program (凌波微光) 
+Jul 2018 - Present
+
+~~~
+{}{img_left}{./photos/0boweiguang/index.png}{150px}{300px}{index}{}
+== Home page
+Four entries:\nStudy materials, Campus Encyclopedias, Utilities and About\n
+\n
+~~~
+
+- “凌波微光” is a campus guide program which is implemented in WeChat program.
+- It provides encyclopedia, news, personal class schedule, learning materials etc. for all staff and students.
+- Implemented API interface with Thinkphp framework and use Python to collect courses information
+
+== Background
+When I was in college, I found that:
+- Information in college is scattered
+- Classes vary a lot weekly
+- Some of the electives are not helpful
+
+== Stack
+- PHP, Python, MySQL
+- React
+
+== Pages Design
+
+{{
+<div id="member-container">
+    <div id="member">
+        <img src="./photos/0boweiguang/wiki.jpg">
+        <p>
+            Campus Encyclopedias Page
+        </p>
+    </div>
+    <div id="member">
+        <img src="./photos/0boweiguang/news.jpg">
+        <p>
+            News Page
+        </p>
+    </div>
+    <div id="member">
+        <img src="./photos/0boweiguang/PUcalendar.jpg">
+        <p>
+            Activities Page
+        </p>
+    </div>
+    <div id="member">
+        <img src="./photos/0boweiguang/coursetable.jpg">
+        <p>
+            Curriculum schedule Page
+        </p>
+    </div>
+</div>
+}}
+
+== Platform data
+- The program has been maintained since 2018, and the number of users is over 10k until June 2024 (From Wechat-Analysis)
+~~~
+{}{img_left}{./photos/0boweiguang/statistics.png}{1789px}{969px}{statistics}{}
+\n
+~~~
+
+

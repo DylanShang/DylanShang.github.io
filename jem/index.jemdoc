@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== JIAYANG SHANG(Dylan)
+
+~~~
+{}{img_left}{photos/profile.jpg}{alt text}{239px}{239px}
+[https://jshang2.github.io Dylan Shang] \n 
+Postgraduate student at [https://www.unsw.edu.au/ UNSW] \n
+Sydney, New South Wales, Australia \n
+\n
+Email: [lantu.april@gmail.com lantu.april@gmail.com] \n
+\[[CV.pdf Curriculem Vitae]\] \n
+~~~
+
+
+In Sydney, Australia. (Dec 8, 2023)
+
+== About me
+I am a final semester graduate student in IT at UNSW, focusing on graph databases under the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang]. I am currently seeking opportunities in Australian tech companies. I have a strong interest in backend development, DevOps, and quantitative analysis. I am excited about applying technology to solve interesting and important real-world problems.
+
+== Education 
+- M.S. in Information of Technology, University of New South Wales, Feb. 2023 - Sep. 2024
+- B.S. in Internet of things, Jiangsu University of Technology, Sep. 2018 - Jun. 2022
+
+#: {Award:}  “iGeek Home” WeChat Applet Contest: Third award (Oct 2019) \n “Bule Bridge Cup” Algorithm Contest: Second prize of province (April 2021)\n
+
+== Experiences
+/Changzhou Youzhi Automation Co., LTD, China ~~~~~~~~ Algorithm and software Engineer ~~~~~~~~ Dec.2021 - Jun.2022/
+- Developing industrial vision software [AIV.html "AIV"]
+- Using (C\+\+) OpenCV library to accomplish 2D/3D graphic algorithms and QT for program design
+
+
+== Research Interests 
+- Graph database, Graph algorithm, OLAP
+- Computer Vision, Computer Graphics, Data Mining
+
+
+
