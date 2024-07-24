@@ -1,3 +1,33 @@
 # jemdoc: menu{MENU}{experiences.html}, nofooter
-= AIV - Industrial vision processing Program 
-Dec 2021 – Jun 2022
+= Kùzu-Wasm - WebAssembly version of Kùzu DB
+Feb 2021 – Present
+
+~~~
+{}{raw}
+<img src="https://raw.githubusercontent.com/dylanshang/kuzu-wasm/main/logo/logo.png" height="100">
+
+<div align="left">
+  <a href="https://www.npmjs.com/package/@kuzu/kuzu-wasm/v/latest">
+    <img src="https://img.shields.io/npm/v/@kuzu/kuzu-wasm?logo=npm" alt="kuzu-wasm package on NPM">
+  </a>
+  <a href="https://github.com/dylanshang/kuzu-wasm/actions">
+    <img src="https://github.com/dylanshang/kuzu-wasm/actions/workflows/shell.yml/badge.svg?branch=main" alt="Github Actions Badge">
+  </a>
+</div>
+~~~
+
+== Background
+It was developed during the last two semesters of a research program at the University of New South Wales.\n
+With the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang].
+
+Probably the First WASM version of the graph database on the market.
+ 
+== Project homepage
+[https://github.com/DylanShang/kuzu-wasm Github]
+
+== Demo
+Try it out at [https://kuzu-shell.netlify.app kuzu-shell.netlify.app]
+
+== Publication
+In progress, will be fnished in August
+
