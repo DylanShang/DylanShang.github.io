@@ -3,3 +3,5 @@
 
 # Ignore .html files in the www directory
 www/*.html
+
+.venv

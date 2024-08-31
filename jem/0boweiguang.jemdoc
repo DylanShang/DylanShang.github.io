@@ -11,19 +11,21 @@ Four entries:\nStudy materials, Campus Encyclopedias, Utilities and About\n
 
 - “凌波微光” is a campus guide program which is implemented in WeChat program.
 - It provides encyclopedia, news, personal class schedule, learning materials etc. for all staff and students.
-- Implemented API interface with Thinkphp framework and use Python to collect courses information
+- Implemented Restful API interface with Laravel framework and use Python to collect courses information
 
 == Background
 When I was in college, I found that:
 - Information in college is scattered
-- Classes vary a lot weekly
-- Some of the electives are not helpful
+- Classes vary a lot in the begining of the semester
+- Some of the elective courses are not helpful, and students don't know the detail
+
+So, I decided to developed an Application to solve these issues.
 
 == Stack
 - PHP, Python, MySQL
 - React
 
-== Pages Design
+== Selected Pages
 
 {{
 <div id="member-container">

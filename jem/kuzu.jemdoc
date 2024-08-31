@@ -15,19 +15,23 @@ Feb 2021 – Present
   </a>
 </div>
 ~~~
+== Introduction
+- [https://github.com/DylanShang/kuzu-wasm Kuzu-wasm] is the WebAssembly version of Kuzu and is also the first WebAssembly database in the graph domain. 
+- With the help of JupyterLite, I created [https://github.com/DylanShang/kuzu-lab Kuzu-lab], enabling data science research with zero installation costs. 
+- It was accepted by UNSW Data and Knowledge Research Group ([https://unswdb.github.io DKR])
 
 == Background
-It was developed during the last two semesters of a research program at the University of New South Wales.\n
-With the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang].
-
-Probably the First WASM version of the graph database on the market.
+- It was developed during the last two semesters of a research program at the University of New South Wales.
+- Under the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang].
  
 == Project homepage
-[https://github.com/DylanShang/kuzu-wasm Github]
+- [https://github.com/DylanShang/kuzu-wasm Github]
+
+== Stack
+C\+\+, Javascript, React, Webassembly, Apache Arrow, Cypher
 
 == Demo
 Try it out at [https://kuzu-shell.netlify.app kuzu-shell.netlify.app]
 
 == Publication
-In progress, will be fnished in August
-
+- [https://drive.google.com/file/d/1IUie2zDGKYk1qe6cQP7eSduKQ2abN5xK/view?usp=sharing Kùzu-Wasm: High-performance In-browser Graph Analysis ]
