@@ -22,7 +22,7 @@ Dec 2021 – Jun 2022
   <div style="width:100%;height:180px"></div>
 ~~~
 
-- Developed a machine vision software named AIV with C++, which was used in industrial product quality testing
+- Developed a machine vision software named AIV with C\+\+, which was used in industrial product quality testing
 - Using OpenCV to accomplish 2D/3D features including template matching, line/circle/plane finding, etc.
 - Implemented UI functions including step by step execution, scripting, debugging, 2D/3D effect preview, etc.
 
