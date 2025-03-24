@@ -7,7 +7,7 @@
 Postgraduate student at [https://www.unsw.edu.au/ UNSW] \n
 Sydney, New South Wales, Australia \n
 \n
-Email: [lantu.april@gmail.com lantu.april@gmail.com] \n
+Email: [jiayang.shang@outlook.com jiayang.shang@outlook.com] \n
 \[[CV.pdf Curriculem Vitae]\] \n
 ~~~
 
@@ -24,6 +24,10 @@ I am a IT graduate from UNSW, focusing on Graph Databases under the supervision 
 #: {Award:}  “iGeek Home” WeChat Applet Contest: Third award (Oct 2019) \n “Bule Bridge Cup” Algorithm Contest: Second prize of province (April 2021)\n
 
 == Experiences
+/[https://www.aquion.com.au/ Aquion Pty Ltd] Sydney, New South Wales, Australia ~~~~~~~~ Software Engineer · Internship ~~~~~~~~ March.2025 - Present/
+- Develop software with Jira, Docker, Laravel, Mysql, Vue.js, OpenAI API, CI/CD
+- Collaborated with the team to build a centralized procurement platform integrating Sage ERP and Eway APIs
+
 /Changzhou Youzhi Automation Co., LTD, China ~~~~~~~~ Algorithm and software Engineer ~~~~~~~~ Dec.2021 - Jun.2022/
 - Developing industrial vision software [AIV.html "AIV"]
 - Using (C\+\+) OpenCV library to accomplish 2D/3D graphic algorithms and QT for program design
@@ -34,15 +38,30 @@ I am a IT graduate from UNSW, focusing on Graph Databases under the supervision 
 - Computer Vision, Computer Graphics, Data Mining
 - Quantitative Analysis
 
-== Book
-《Pine v5 中文版用户手册》Pine Script™ v5 User Manual Chinese Version
+== Books & Publications
+《Pine Script™ v5 User Manual Chinese Version》: Script Manual for TradingView, published on Feb. 2022 on GitHub
+
 ~~~
 {}{raw}
+<div style="margin-bottom:20px;">
 <a target="_blank" href="https://github.com/unknown-marketwizards/pine_script_docs_zh">[Github]</a>
 <a target="_blank" href="https://unknown-marketwizards.github.io/pine_script_docs_zh">[Online Book]</a>
 <span style="margin-right: 20px;"></span>
 <a target="_blank" href="https://github.com/unknown-marketwizards/pine_script_docs_zh"><img src="https://img.shields.io/github/stars/unknown-marketwizards/pine_script_docs_zh?style=social" style="vertical-align: bottom;" alt="Stars"></a>
 <a target="_blank" href="https://github.com/unknown-marketwizards/pine_script_docs_zh"><img src="https://img.shields.io/github/forks/unknown-marketwizards/pine_script_docs_zh?style=social" style="vertical-align: bottom;" alt="Forks"></a>
+</div>
+~~~
+
+
+《Kuzu-Wasm: High-performance In-browser Graph Analysis》First public Graph Database powered by WebAssembly
+~~~
+{}{raw}
+<div>
+<a target="_blank" href="https://github.com/unswdb/kuzu-wasm">[Github]</a>
+<a target="_blank" href="https://drive.google.com/file/d/1IUie2zDGKYk1qe6cQP7eSduKQ2abN5xK/view?usp=sharing">[Thesis]</a>
+<span style="margin-right: 20px;"></span>
+<a target="_blank" href="https://github.com/unswdb/kuzu-wasm/stargazers"><img src="https://img.shields.io/github/stars/unswdb/kuzu-wasm?style=social" style="vertical-align: bottom;" alt="Stars"></a>
+</div>
 ~~~
 
 == Visitors

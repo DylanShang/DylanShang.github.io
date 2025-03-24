@@ -27,7 +27,7 @@ Dec 2021 – Jun 2022
 - Implemented UI functions including step by step execution, scripting, debugging, 2D/3D effect preview, etc.
 
 == Stack
-C\+\+, Qt, OpenCV, PCL
+C\+\+, C\#, Qt, OpenCV, PCL
 
 == Examples
 ~~~
