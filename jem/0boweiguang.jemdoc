@@ -3,7 +3,7 @@
 Jul 2018 - Present
 
 ~~~
-{}{img_left}{./photos/0boweiguang/index.png}{150px}{300px}{index}{}
+{}{img_left}{./photos/0boweiguang/index.png}{}{300px}{}{}
 == Home page
 Four entries:\nStudy materials, Campus Encyclopedias, Utilities and About\n
 \n
@@ -12,6 +12,13 @@ Four entries:\nStudy materials, Campus Encyclopedias, Utilities and About\n
 - “凌波微光” is a campus guide program which is implemented in WeChat program.
 - It provides encyclopedia, news, personal class schedule, learning materials etc. for all staff and students.
 - Implemented Restful API interface with Laravel framework and use Python to collect courses information
+
+== Entry
+Use Wechat to scan the QR code below
+
+{{
+<img src="./photos/0boweiguang/scan.jpg" style="height:150px">
+}}
 
 == Background
 When I was in college, I found that:
