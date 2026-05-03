@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{experiences.html}, nofooter
+= SuperFlux — AI-native project tracker
+Side project · Used by a team in production · 2025 — Present
+
+== Overview
+SuperFlux is a Linear\/Jira-style project and issue tracker, built end-to-end with [https://www.anthropic.com/claude-code Claude Code] as the primary engineering tool. It replaces a traditional Jira workflow with an AI-development hub — wiring Claude Code, GitLab, and internal coding standards into a single workflow.
+
+== Why it exists
+Built in spare time to answer one question: what does an /AI-native/ team workflow look like when the project tracker is also the AI orchestration layer?
+
+- Specs live in SuperFlux; Claude Code reads them as task input.
+- AI runs branch ops, commits, and merge requests against GitLab from inside an issue.
+- Per-issue and per-user cost accounting lets the team see Claude spend in real time.
+- Internal coding standards and playbooks attached to the workspace are loaded into every AI session.
+
+== Selected screens
+
+*Issue board.* Linear-inspired layout with statuses, priorities, projects, and sidebar navigation — the full Jira-replacement surface.
+
+~~~
+{}{raw}
+<figure>
+  <img src="photos/superflux/inbox-popover-portal-fixed.png" alt="Issue board">
+  <figcaption>My Issues — list view with statuses, priorities, labels, assignees</figcaption>
+</figure>
+~~~
+
+*AI cost dashboard.* Per-issue and per-user accounting of Claude usage — model breakdown, trigger-source breakdown, week-over-week comparison. Built so the team can budget AI spend like infrastructure spend.
+
+~~~
+{}{raw}
+<figure>
+  <img src="photos/superflux/cost-dashboard-final-v3.png" alt="AI cost dashboard">
+  <figcaption>7-day window — total spend, success rate, model + trigger breakdown, top issues by cost</figcaption>
+</figure>
+~~~
+
+*Claude task transcript.* Full timeline of an AI agent's actions on an issue, including git operations, file diffs, and merge-request prep. Reviewers can audit exactly what the model did before approving the PR.
+
+~~~
+{}{raw}
+<figure>
+  <img src="photos/superflux/claude-service-transcript-timeline.png" alt="Claude task transcript">
+  <figcaption>Per-task transcript — token counts, turns, cache hits, and full message log</figcaption>
+</figure>
+~~~
+
+== Stack
+- *Frontend*: Next.js 16 (App Router), TypeScript, Tailwind CSS
+- *Backend*: Next.js API routes, Prisma, PostgreSQL
+- *Infra*: PM2 cluster (zero-downtime reload), Cloudflare Tunnel (HTTP\/2)
+- *Quality*: Playwright E2E (Chromium \+ mobile viewports), spec-driven workflow
+- *Mobile*: custom swipe \/ long-press \/ pull-to-refresh hooks, single-breakpoint design (768px)
+
+== Status
+In daily use by an engineering team in production. Running behind Cloudflare Tunnel; not publicly accessible.
