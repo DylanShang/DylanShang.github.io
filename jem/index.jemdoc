@@ -3,8 +3,8 @@
 
 ~~~
 {}{img_left}{photos/profile.jpg}{alt text}{239px}{239px}
-[https://dylanshang.github.io/ Dylan Shang] \n 
-Postgraduate student at [https://www.unsw.edu.au/ UNSW] \n
+[https://dylanshang.github.io/ Dylan Shang] \n
+Master of IT (Excellent graduate) from [https://www.unsw.edu.au/ UNSW] \n
 Sydney, New South Wales, Australia \n
 \n
 Email: [jiayang.shang@outlook.com jiayang.shang@outlook.com] \n
@@ -12,31 +12,39 @@ Email: [jiayang.shang@outlook.com jiayang.shang@outlook.com] \n
 ~~~
 
 
-In Sydney, Australia. (Dec 8, 2023)
-
 == About me
-I am a IT graduate from UNSW, focusing on Graph Databases under the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang]. I am currently seeking opportunities in Australian tech companies. I have a strong interest in backend development, DevOps, and Quantitative Analysis/Data Science. I am excited about applying technology to solve interesting and important real-world problems.
+I am a Master's graduate in Information Technology from UNSW, where my research focus was Graph Databases under the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang]. My day-to-day spans modern web (React, Vue, Node.js, Python\/FastAPI), AWS\/Docker, and shipping production code that real users depend on.
 
-== Education 
-- M.S. in Information of Technology, University of New South Wales, Feb. 2023 - Sep. 2024 (Excellent graduate)
-- B.S. in Internet of things, Jiangsu University of Technology, Sep. 2018 - Jun. 2022
+== Education
+- M.S. in Information Technology, University of New South Wales, Feb 2023 - Sep 2024 (Excellent graduate, WAM: 82/100)
+- B.S. in Internet of Things, Jiangsu University of Technology, Sep 2018 - Jun 2022
 
 #: {Award:}  “iGeek Home” WeChat Applet Contest: Third award (Oct 2019) \n “Bule Bridge Cup” Algorithm Contest: Second prize of province (April 2021)\n
 
 == Experiences
-/[https://www.aquion.com.au/ Aquion Pty Ltd] Sydney, New South Wales, Australia ~~~~~~~~ Software Engineer · Internship ~~~~~~~~ March.2025 - Present/
-- Develop software with Jira, Docker, Laravel, Mysql, Vue.js, OpenAI API, CI/CD
-- Collaborated with the team to build a centralized procurement platform integrating Sage ERP and Eway APIs
+/Golden Matrix Group Inc. Sydney, NSW, Australia ~~~~~~~~ Full Stack Software Engineer ~~~~~~~~ Apr 2025 - Present/
+- Built and shipped full-stack reporting features end-to-end (React, Laravel\/PHP, MySQL, Docker, AWS, CI\/CD) for high-concurrency workloads.
+- Led migration of clustered systems from traditional servers to AWS ECS containers, improving resource efficiency.
+- Integrated third-party platforms (Braze, Revolut) for engagement automation and secure payment workflows.
 
-/Changzhou Youzhi Automation Co., LTD, China ~~~~~~~~ Algorithm and software Engineer ~~~~~~~~ Dec.2021 - Jun.2022/
-- Developing industrial vision software [AIV.html "AIV"]
-- Using (C\+\+) OpenCV library to accomplish 2D/3D graphic algorithms and QT for program design
+/[https://www.aquion.com.au/ Aquion Pty Ltd] Sydney, NSW, Australia ~~~~~~~~ Software Engineer · Internship ~~~~~~~~ March 2025 - April 2025/
+- Built AI-assisted internal tools using OpenAI APIs (Vue.js, Laravel, MySQL, Docker, CI/CD).
+- Collaborated with the team to build a centralized procurement platform integrating Sage ERP and Eway APIs.
+
+/Changzhou Youzhi Automation Co., LTD, China ~~~~~~~~ Algorithm and Software Engineer ~~~~~~~~ Dec 2021 - Jun 2022/
+- Developing industrial vision software [AIV.html "AIV"] in C\+\+ and C\#.
+- Using OpenCV library to accomplish 2D/3D graphic algorithms and Qt for program design.
 
 
 == Research Interests 
 - Graph database, Graph algorithm, OLAP
 - Computer Vision, Computer Graphics, Data Mining
 - Quantitative Analysis
+
+== Selected Projects
+- /[kuzu.html Kùzu-Wasm]/ — First WebAssembly graph database, accepted by UNSW DKR. (2024)
+- /[0boweiguang.html Campus Guide (凌波微光)]/ — WeChat program serving 10,000+ users since 2018.
+- /[AIV.html AIV — Industrial Vision Software]/ — C\+\+\/C\# machine vision system for product QA. (2021-2022)
 
 == Books & Publications
 《Pine Script™ v5 User Manual Chinese Version》: Script Manual for TradingView, published on Feb. 2022 on GitHub
