@@ -13,7 +13,7 @@ Email: [jiayang.shang@outlook.com jiayang.shang@outlook.com] \n
 
 
 == About me
-I am a Master's graduate in Information Technology from UNSW, where my research focus was Graph Databases under the supervision of [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang]. My day-to-day spans modern web (React, Vue, Node.js, Python\/FastAPI), AWS\/Docker, and shipping production code that real users depend on.
+I'm a full-stack engineer based in Sydney. My day-to-day covers modern web stacks (React, Vue, Node, Python\/FastAPI, PostgreSQL, AWS, Docker) and a growing focus on AI-native developer tooling. I hold a Master's in Information Technology from UNSW (Excellent graduate), where my research focused on graph databases under [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang]. Full background in my [CV.pdf CV].
 
 == Education
 - M.S. in Information Technology, University of New South Wales, Feb 2023 - Sep 2024 (Excellent graduate, WAM: 82/100)
@@ -36,12 +36,11 @@ I am a Master's graduate in Information Technology from UNSW, where my research 
 - Using OpenCV library to accomplish 2D/3D graphic algorithms and Qt for program design.
 
 
-== Research Interests 
-- Graph database, Graph algorithm, OLAP
-- Computer Vision, Computer Graphics, Data Mining
-- Quantitative Analysis
+== Research Experience
+- /Graph databases \& WebAssembly/ — Master's research at UNSW DKR (2024) under [https://www.unsw.edu.au/staff/zhengyi-yang Zhengyi Yang]. Produced [kuzu.html Kùzu-Wasm], the first WebAssembly graph database, accepted by the UNSW Data and Knowledge Research Group.
 
 == Selected Projects
+- /[superflux.html SuperFlux]/ — Linear\/Jira-style AI-native project tracker built end-to-end with Claude Code; in production use by a team. (2025-Present)
 - /[kuzu.html Kùzu-Wasm]/ — First WebAssembly graph database, accepted by UNSW DKR. (2024)
 - /[0boweiguang.html Campus Guide (凌波微光)]/ — WeChat program serving 10,000+ users since 2018.
 - /[AIV.html AIV — Industrial Vision Software]/ — C\+\+\/C\# machine vision system for product QA. (2021-2022)
